@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @GabrielLima1302
-- 👀 I’m interested in learning and working with Python language
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Back-End programs
 - 📫 How to reach me Instagram:@lim4_gabriell
 
